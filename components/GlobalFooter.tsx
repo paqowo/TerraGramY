@@ -10,7 +10,7 @@ const GlobalFooter: React.FC = () => {
   return (
     <div className="w-full flex flex-col items-center">
       {showManifesto && (
-        <p className="font-serif text-[10px] md:text-[11px] tracking-[0.2em] uppercase opacity-40 md:whitespace-nowrap text-balance mb-6 px-6 text-center">
+        <p className="font-serif text-[10px] md:text-[11px] tracking-[0.2em] uppercase opacity-70 md:whitespace-nowrap text-balance mb-6 px-6 text-center">
           TERRAGRAM JE VĚDOMÝ PRINCIP • SYMBOL SVĚTLA JE JEHO OBRAZ • AKTIVAČNÍ KLÍČ VZNIKÁ VE CHVÍLI, KDY SE TENTO PRINCIP V ČLOVĚKU PROBUDÍ.
         </p>
       )}

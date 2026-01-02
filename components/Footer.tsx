@@ -4,7 +4,7 @@ const Footer: React.FC = () => {
   return (
     <footer className="w-full py-16 px-6 text-center mt-auto">
       {/* Top Row (Manifesto) */}
-      <p className="text-[10px] md:text-[11px] tracking-[0.2em] uppercase font-serif opacity-40 md:whitespace-nowrap text-balance mx-auto max-w-lg">
+      <p className="text-[10px] md:text-[11px] tracking-[0.2em] uppercase font-serif opacity-70 md:whitespace-nowrap text-balance mx-auto max-w-lg">
         TERRAGRAM JE VĚDOMÝ PRINCIP • SYMBOL SVĚTLA JE JEHO OBRAZ • AKTIVAČNÍ KLÍČ VZNIKÁ VE CHVÍLI, KDY SE TENTO PRINCIP V ČLOVĚKU PROBUDÍ.
       </p>
       {/* Bottom Row (Copyright) */}
